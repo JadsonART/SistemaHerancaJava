@@ -1,2 +1,1 @@
-# SistemaHerancaJava
-UC: Gestão e Qualidade de Software
+# Projeto para Sistema com Herança em Java

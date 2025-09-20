@@ -1,3 +1,5 @@
+package modelo;
+
 public class Violao extends Instrumento {
 
     private int numeroCordas;

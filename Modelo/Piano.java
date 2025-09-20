@@ -1,3 +1,5 @@
+package modelo;
+
 public class Piano extends Instrumento {
 
     private int numeroTeclas;

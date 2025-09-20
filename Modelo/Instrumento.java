@@ -1,3 +1,5 @@
+package modelo;
+
 public class Instrumento {
     private String nome;
     private String tipo;

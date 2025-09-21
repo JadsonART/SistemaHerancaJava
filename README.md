@@ -1,1 +1,1 @@
-# Projeto para Sistema com Herança em Java
+# Projeto para Sistema com Herança em Java - Feito a super class de animal com as caracteristicas de nome e idade do animal e as subclasses, o cachorro em especial tendo raça e latindo e o gato diferenciando pelo sua cor e miando.
